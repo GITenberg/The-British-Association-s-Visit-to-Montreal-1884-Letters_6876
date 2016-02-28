@@ -1,0 +1,23 @@
+_repo: The-British-Association-s-Visit-to-Montreal-1884-Letters_6876
+creator:
+  author:
+    agent_name: Rayleigh, Clara
+    alias: Vicars, Clara Elizabeth La Touche
+    deathdate: 1900
+    gutenberg_agent_id: '2232'
+    url: http://www.gutenberg.org/2009/agents/2232
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Canada -- Description and travel'
+- !lcc 'HC'
+title: 'The British Association''s Visit to Montreal, 1884 : Letters'
+url: http://www.gutenberg.org/ebooks/6876
